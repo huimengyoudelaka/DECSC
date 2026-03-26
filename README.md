@@ -1,4 +1,4 @@
-# Iterative Low-rank  Network for Hyperspectral Image Denoising
+# Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising
 
 Jin Ye, Jingran Wang, Fengchao Xiong, Jun Zhou, and Yuntao Qian, ["Deep Equilibrium Convolutional Sparse Coding for  Hyperspectral Image Denoising"] TGRS 2025 
 
