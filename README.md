@@ -1,6 +1,6 @@
 # Iterative Low-rank  Network for Hyperspectral Image Denoising
 
-Jin Ye, Fengchao Xiong, Jun Zhou, and Yuntao Qian, ["Iterative Low-rank  Network for Hyperspectral Image Denoising"](https://ieeexplore.ieee.org/document/10645292) TGRS 2024 
+Jin Ye, Jingran Wang, Fengchao Xiong, Jun Zhou, and Yuntao Qian, ["Deep Equilibrium Convolutional Sparse Coding for  Hyperspectral Image Denoising"] TGRS 2025 
 
 
 <hr />
